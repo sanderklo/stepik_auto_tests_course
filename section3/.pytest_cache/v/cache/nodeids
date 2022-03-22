@@ -1,1 +1,4 @@
-[]
+[
+  "lesson2_step13_unittest_registration_on_site.py::TestRequired::test_registered_first_site",
+  "lesson2_step13_unittest_registration_on_site.py::TestRequired::test_registered_second_site"
+]
