@@ -1,4 +1,6 @@
 {
-  "lesson2_step13_unittest_registration_on_site.py::TestRequired::test_registered_second_site": true,
-  "test_abs_project.py": true
+  "test_abs.py": true,
+  "test_abs_project.py": true,
+  "test_fixture1_lesson4_step2.py::TestMainPage1": true,
+  "test_fixture1_lesson4_step2.py::TestMainPage2": true
 }
