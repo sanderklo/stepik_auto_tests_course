@@ -1,0 +1,11 @@
+1648038957078	geckodriver	INFO	Listening on 127.0.0.1:63929
+1648038960184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\VLADYS~1\\AppData\\Local\\Temp\\rust_mozprofile4IjFW9"
+1648038960481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vladyslav\\AppData\\Local\\Temp\\rust_mozprofile4IjFW9\\search.json.mozlz4", (void 0)))
+1648038962183	Marionette	INFO	Listening on port 63938
+1648038962255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1648038964069	Marionette	INFO	Stopped listening on port 63938
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

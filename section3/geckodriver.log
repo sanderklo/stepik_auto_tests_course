@@ -1,0 +1,7 @@
+1648038334263	geckodriver	INFO	Listening on 127.0.0.1:63565
+1648038337339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\VLADYS~1\\AppData\\Local\\Temp\\rust_mozprofileBwwzMA"
+1648038337591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vladyslav\\AppData\\Local\\Temp\\rust_mozprofileBwwzMA\\search.json.mozlz4", (void 0)))
+1648038339489	Marionette	INFO	Listening on port 63575
+1648038339510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1647624111, line 6285: unreachable code after return statement
